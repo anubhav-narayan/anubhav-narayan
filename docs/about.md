@@ -3,16 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+I am an Independent Python and C Developer with a knack for Computing Hardware. I am currently pursuing Bachelor of Engineering in Computer Engineering. My interests are in Computing Hardware, Embedded Systems, Signal Systems and Digital Audio.
+I am really interested in working with Audio Systems and I have a working experience with PyDub audio manipulation Library in Python, besides that I can also work with Linux ARM(Raspbian, Maemo 5), Web Integrated Hardware and IoT devices(Raspberry Pi 2/3/3B/4, Arduino Nano/Uno) and Microcontrollers.
+I am currently working to develop a Public Key Name System Framework and a File Sharing System Based on it.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Tools: Python, Pyrex, C, C++, Golang, HTML5, CSS3, Flask
